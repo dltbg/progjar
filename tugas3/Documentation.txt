@@ -1,0 +1,5 @@
+Client :
+dirc		 -----> melihat list folder dan file
+put namafile	 -----> Mengrim file ke folder aktif
+get namafile	 -----> mengambil file dari folder aktif
+mkdir namafolder -----> membuat folder di folder aktif
